@@ -1,3 +1,14 @@
+# Todo List built using HTML, CSS, JavaScript, Webpack and ReactJs.
+
+A simple Todo list where the user can input any task they wish to complete and it will be stored below in the Todo List.
+
+Simply type the task in the box that has a placeholder "What needs to be done", then press Enter and the task will populate below.
+
+See the Live Demo here: https://enriqueesmith.github.io/Todo-List-using-ReactJS.github.io/ .
+
+
+
+
 # Hello World with React and Cloud 9
 
 Requirements: Make sure you are using node version 8
